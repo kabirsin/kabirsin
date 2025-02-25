@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirsin&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabirsin" alt="kabirsin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabirsin" alt="Aditya Singh" /></a> </p>
 
 - 📫 How to reach me **kabir1008sin@gmail.com**
 
