@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kabir</h1>
+<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirsin&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsin" /> </p>
